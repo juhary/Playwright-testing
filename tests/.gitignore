@@ -1,0 +1,4 @@
+package.json
+playwright.config.ts
+tests
+node_modules
